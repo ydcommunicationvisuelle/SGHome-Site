@@ -497,7 +497,7 @@ body.loaded .viewport-frame.load-in::before, body.loaded .viewport-frame.load-in
   background: var(--noir);
   position: relative;
 }
-.footer-logo img{ height: 24px; width:auto; opacity: 0.8; }
+.footer-logo img{ height: 120px; width:auto; opacity: 0.8; }
 #site-footer p{ font-size: 0.72rem; letter-spacing: 0.06em; color: var(--pierre); margin:0; }
 .footer-top{
   position: absolute; right: var(--gutter); top: 50%; transform: translateY(-50%);
