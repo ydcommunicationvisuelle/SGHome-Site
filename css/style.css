@@ -221,7 +221,7 @@ body.loaded .viewport-frame.load-in::before, body.loaded .viewport-frame.load-in
 .hero-top{
   position: relative; z-index: 2;
   display:flex;
-  align-items:flex-end;
+  align-items:center;
   justify-content:space-between;
   gap: clamp(2rem, 6vw, 5rem);
 }
@@ -262,7 +262,7 @@ body.loaded .viewport-frame.load-in::before, body.loaded .viewport-frame.load-in
 .hero-cta:hover{ color: var(--laiton-vif); border-color: var(--laiton-vif); gap: 1em; }
 
 .hero-logo{
-  flex: 0 0 35%;
+  flex: 0 0 100%;
   width: 100%;
   display: flex;
   align-items: center;
