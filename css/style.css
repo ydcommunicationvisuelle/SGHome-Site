@@ -189,7 +189,7 @@ body.loaded .viewport-frame.load-in::before, body.loaded .viewport-frame.load-in
 #hero{
   min-height: 100svh;
   display:flex; flex-direction:column; justify-content:flex-end;
-  padding: 8rem var(--gutter) 4rem;
+  padding: 2rem var(--gutter) 4rem;
   position: relative;
   overflow: hidden;
 }
