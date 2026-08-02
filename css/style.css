@@ -208,7 +208,7 @@ body.loaded .viewport-frame.load-in::before, body.loaded .viewport-frame.load-in
     linear-gradient(115deg, rgba(10,9,8,0.55) 0%, rgba(10,9,8,0.15) 45%, rgba(10,9,8,0.55) 100%);
 }
 .hero-glow{
-  position:absolute; z-index:1; pointer-events:none;
+  position:absolute; z-index:3; pointer-events:none;
   width: 46vw; height: 46vw; max-width: 620px; max-height: 620px;
   left: var(--gx, 50%); top: var(--gy, 30%);
   transform: translate(-50%,-50%);
