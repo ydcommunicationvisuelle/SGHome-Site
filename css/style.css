@@ -263,7 +263,7 @@ body.loaded .viewport-frame.load-in::before, body.loaded .viewport-frame.load-in
 
 .hero-logo{
   flex: 0 0 35%;
-  width: 35%;
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
